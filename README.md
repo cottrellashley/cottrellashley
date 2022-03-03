@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cottrellashley
-- 👀 I’m interested in Theoretical Physics, Educating and Computer Science
+- 👀 I’m interested in Theoretical Physics, Education and Computer Science
 - 🌱 I’m currently learning Python and its aplications to physics and modelling
 - ⨂⟫ Currently creating a General Relativity package, for physicists.
 
